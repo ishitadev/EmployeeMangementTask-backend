@@ -1,0 +1,11 @@
+C:\Ishita Test Task\EmployeeMangementTask\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Ishita Test Task\EmployeeMangementTask\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Ishita Test Task\EmployeeMangementTask\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Ishita Test Task\EmployeeMangementTask\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ishita Test Task\EmployeeMangementTask\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Ishita Test Task\EmployeeMangementTask\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Ishita Test Task\EmployeeMangementTask\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Ishita Test Task\EmployeeMangementTask\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Ishita Test Task\EmployeeMangementTask\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Ishita Test Task\EmployeeMangementTask\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Ishita Test Task\EmployeeMangementTask\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
